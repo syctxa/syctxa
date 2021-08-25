@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @soyandrey
 - 👀 I’m interested in hacking, gaming and programing
-- 🌱 I’m currently learning c# and lua development
-- 💞️ I’m looking to collaborate on vg hub
+- 🌱 I’m currently learning c#, python and lua development
+- 💞️ I’m collaborate on PascalHacks
 - 📫 How to reach me ...
 
 <!---
