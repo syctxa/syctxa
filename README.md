@@ -4,6 +4,7 @@
 - 💞️ I’m collaborating on PascalHacks
 - 📫 How to reach me ...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soyandrey)](https://github.com/soyandrey)
 
 
 <!---
