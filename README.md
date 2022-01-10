@@ -2,6 +2,8 @@
 - 👀 I’m interested in hacking, gaming and programing
 - 🌱 I’m currently learning .NET Framework development
 
+[![My GitHub stats](https://discord.c99.nl/widget/theme-3/892860271675211819.png)](https://github.com/soyandrey)
+
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=soyandrey&theme=radical)](https://github.com/soyandrey)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soyandrey&theme=radical)]
