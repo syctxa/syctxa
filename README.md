@@ -1,4 +1,4 @@
-<center><h1>Hi there, I'm Ivan!</h1></center>
+<center><h1>Hi there, I'm andrei!</h1></center>
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://nodejs.org/t"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
