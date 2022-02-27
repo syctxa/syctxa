@@ -1,4 +1,4 @@
-<center><h1>Hi there, I'm andrei!</h1></center>
+<center><h1>Hi there, I'm Ivan!</h1></center>
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://nodejs.org/t"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
@@ -7,7 +7,7 @@
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
 <a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
-<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-LInux (Debian)-042571?style=flat&logo=debian"/></a>
+<a href="https://www.debian.org/"><img src="https://img.shields.io/badge/-LInux (Debian)-D70651?style=flat&logo=debian"/></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual Studio Code-213c60?style=flat&logo=visualstudiocode"/></a>
 <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Node.js-4a7558?style=flat&logo=node.js&logoColor=white"/></a>
 <a href="https://discord.js.org/"><img src="https://img.shields.io/badge/-Discord.js-5865F2?style=flat&logoColor=white&logo=discord"/></a>
@@ -19,7 +19,7 @@
 <a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-SheepyCat%236011-000000?style=flat&logo=discord"/></a>
 
 
-<a href="https://discord.com/users/892860271675211819"><img align="left" src="https://discord.c99.nl/widget/theme-3/892860271675211819.png"></a>
+<a href="https://discord.com/users/892860271675211819"><img align="center" src="https://discord.c99.nl/widget/theme-3/892860271675211819.png"></a>
 
 
 ```js
