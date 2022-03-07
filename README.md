@@ -4,6 +4,7 @@
 <a href="https://nodejs.org/t"><img src="https://img.shields.io/badge/-JavaScript-BD9800?style=flat&logo=javascript"/></a>
 <a href="https://python.org/"><img src="https://img.shields.io/badge/-Python-048CFF?style=flat&logo=python"/></a>
 <a href="https://lua.org/"><img src="https://img.shields.io/badge/-Lua-0072FF?style=flat&logo=lua"/></a>
+<a href="https://docs.microsoft.com/dotnet/csharp/"><img src="https://img.shields.io/badge/-CSharp_(Learning)-68217a?style=flat&logo=csharp"/></a>
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
 <a href="https://www.microsoft.com/ko-kr/software-download/windows11"><img src="https://img.shields.io/badge/-Windows-042571?style=flat&logo=windows"/></a>
