@@ -17,7 +17,8 @@
 <br><br>
 
 <h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-SheepyCat%236011-000000?style=flat&logo=discord"/></a>
+<a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-@syctxa-000000?style=flat&logo=discord"/></a>
+<a href="https://www.instagram.com/zyctxa/"><img src="https://img.shields.io/badge/-zyctxa-000000?style=flat&logo=instagram"/></a>
 
 
 <a href="https://discord.com/users/892860271675211819"><img align="center" src="https://discord.c99.nl/widget/theme-3/892860271675211819.png"></a>
@@ -26,12 +27,9 @@
 ```js
 {
     name = "andrei",
-    sex = "male",
-    type = "cat",
     hobby = "coding and doing taewondo",
-    discord = "SheepyCat#6011",
-	pronouns = "he/him",
-    languages = {"en-MX", "es-MX", "fr-FR", "pt-BR"}
+    discord = "syctxa",
+    languages = {"en-MX", "es-MX", "fr-FR", "ru-RU"}
 }
 
 ```
