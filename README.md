@@ -1,4 +1,4 @@
-<center><h1>Hi there, I'm αndrei!</h1></center>
+<center><h1>Hi there, I'm Σγςτχα!</h1></center>
 
 <h2><strong>💻 Languages: </strong></h2>
 <a href="https://python.org"> <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript" alt="Javascript" /> </a>
