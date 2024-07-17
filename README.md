@@ -4,6 +4,7 @@
 <a href="https://python.org"> <img src="https://img.shields.io/badge/Javascript-gray?style=for-the-badge&logo=javascript" alt="Javascript" /> </a>
 <a href="https://python.org"><img src="https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&link=https://python.org" alt="Python" /></a>
 <a href="https://lua.org"><img src="https://img.shields.io/badge/Lua-gray?style=for-the-badge&logo=lua&link=https://lua.org" alt="Lua" /></a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=cplusplus" alt="Lua" /></a>
 <a href="https://svelte.dev"><img src="https://img.shields.io/badge/Svelte-Learning-FF3E00?style=for-the-badge&logo=svelte&link=https://svelte.dev" alt="Svelte" /></a>
 <a href="https://react.dev"><img src="https://img.shields.io/badge/React-Learning%20After%20Svelte-61DAFB?style=for-the-badge&logo=react&link=https://react.dev" alt="React" /></a>
 <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/Typescript-Improoving-3178C6?style=for-the-badge&logo=typescript&link=https://www.typescriptlang.org/" alt="Typescript" /></a>
