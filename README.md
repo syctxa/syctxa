@@ -14,8 +14,8 @@
 
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
-<a href="https://windows.com"><img src="https://img.shields.io/badge/Windows-Learning%20how%20to%20power%20up-008080?style=for-the-badge&logo=windows95&link=https://windows.com" alt="Windows" /></a>
-<a href="https://kali.org"><img src="https://img.shields.io/badge/Kali-cant%20connect%20keyboard%20yet-557C94?style=for-the-badge&logo=kalilinux&logoWidth=20&link=https://kali.org" alt="Kali" /></a>
+<a href="https://windows.com"><img src="https://img.shields.io/badge/Fedora-008080?style=for-the-badge&logo=fedora&link=https://fedoraproject.org/" alt="Fedora" /></a>
+<a href="https://kali.org"><img src="https://img.shields.io/badge/Kali-cant%20connect%20keyboard%20yet-557C94?style=for-the-badge&logo=kalilinux&logoHeigth=40&link=https://kali.org" alt="Kali" /></a>
 <a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-trapped%20in%20vim-E95420?style=for-the-badge&logo=ubuntu&link=https://ubuntu.com/" alt="Ubuntu" /></a>
 <a href="https://vscode.dev"><img src="https://img.shields.io/badge/Visual%20Studio-gray?style=for-the-badge&logo=visualstudiocode&link=https://vscode.dev" alt="Visual Studio" /></a>
 <a href="https://vscode.dev"><img src="https://img.shields.io/badge/Microsoft%20Word-best%20code%20editor-2B579A?style=for-the-badge&logo=microsoftword&link=https://vscode.dev" alt="Microsoft Word" /></a>
@@ -34,7 +34,7 @@
 ```js
 {
     name = "andrei",
-    hobby = "coding and doing taewondo",
+    hobby = "coding, running and doing taewondo",
     discord = "syctxa",
     languages = {"en-MX", "es-MX", "fr-FR", "ru-RU"}
 }
