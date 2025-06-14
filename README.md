@@ -28,17 +28,6 @@
 
 <a href="https://discord.com/users/892860271675211819"><img align="center" src="https://discord.c99.nl/widget/theme-3/892860271675211819.png"></a>
 
-
-```js
-{
-    name = "andrei",
-    hobby = "coding, running and doing taewondo",
-    discord = "syctxa",
-    languages = {"en-MX", "es-MX", "fr-FR", "ru-RU"}
-}
-
-```
-
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=soyandrey&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" alt="Ivan's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyandrey&hide_border=true&theme=radical" /></a> |
 | ------------- | ------------- |
 <img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=7&theme=radical"> | <img align="center" src="https://discord.c99.nl/widget/theme-3/892860271675211819.png" />
