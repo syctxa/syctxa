@@ -13,23 +13,10 @@
 
 
 <h2><strong>🛠️ Development Environment: </strong></h2>
-<a href="https://windows.com"><img src="https://img.shields.io/badge/Fedora-008080?style=for-the-badge&logo=fedora&link=https://fedoraproject.org/" alt="Fedora" /></a>
+<a href="https://fedoraproject.org"><img src="https://img.shields.io/badge/Fedora-008080?style=for-the-badge&logo=fedora&link=https://fedoraproject.org/" alt="Fedora" /></a>
 <a href="https://swaywm.org/"><img src="https://img.shields.io/badge/Sway-wm-68751C?style=for-the-badge&logo=sway&link=https://swaywm.org/" alt="swaywm" /></a>
 <a href="https://neovim.io/"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&link=https://swaywm.org/" alt="neovim" /></a>
-<a href="https://vscode.dev"><img src="https://img.shields.io/badge/Microsoft%20Word-best%20code%20editor-2B579A?style=for-the-badge&logo=microsoftword&link=https://vscode.dev" alt="Microsoft Word" /></a>
 
-
-<br><br>
-
-<h2><strong>📞 Contact Me: </strong></h2>
-<a href="https://discordapp.com/users/325605285731500033"><img src="https://img.shields.io/badge/-@syctxa-000000?style=flat&logo=discord"/></a>
-<a href="https://www.instagram.com/zyctxa/"><img src="https://img.shields.io/badge/-zyctxa-000000?style=flat&logo=instagram"/></a>
-
-
-<a href="https://discord.com/users/892860271675211819"><img align="center" src="https://discord.c99.nl/widget/theme-3/892860271675211819.png"></a>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=soyandrey&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" alt="Ivan's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soyandrey&hide_border=true&theme=radical" /></a> |
-| ------------- | ------------- |
 <img src="https://github-profile-trophy.vercel.app/?username=MirayXS&column=7&theme=radical"> | <img align="center" src="https://discord.c99.nl/widget/theme-3/892860271675211819.png" />
 <!--
 
